@@ -8,8 +8,9 @@
   },
   "author": "Andrei",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000s\u0000h\u0000o\u0000p\u0000\r\u0000 \u0000#\u0000 \u0000M\u0000y\u0000S\u0000h\u0000o\u0000p\u0000\r\u0000 \u0000#\u0000 \u0000M\u0000y\u0000N\u0000e\u0000w\u0000S\u0000h\u0000o\u0000p\u0000\r\u0000 \u0000",
   "dependencies": {
     "express": "^4.21.0"
-  }
+  },
+  "devDependencies": {}
 }
